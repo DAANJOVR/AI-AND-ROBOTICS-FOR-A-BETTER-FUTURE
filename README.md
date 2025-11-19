@@ -18,21 +18,21 @@ This creates a smart, self-regulating environment that adjusts air quality and c
 
 3. Automatic Garbage Segregator
 
-Waste management is one of the biggest challenges in modern cities. The automatic garbage segregator uses IR sensors, moisture sensors, and metal detection to separate waste into wet, dry, and metallic categories.
-
-A servo-controlled flap or conveyor system directs the waste into the correct bin. This not only reduces manual effort but also makes recycling more efficient by sorting waste at the source. The segregator is built using Arduino Uno/Nano due to their simplicity and reliability.
+  Waste management is one of the biggest challenges in modern cities. The automatic garbage segregator uses IR sensors, moisture sensors, and metal detection to separate waste into wet, dry, and metallic categories.
+  
+  A servo-controlled flap or conveyor system directs the waste into the correct bin. This not only reduces manual effort but also makes recycling more efficient by sorting waste at the source. The segregator is built using Arduino Uno/Nano due to their simplicity and      reliability.
 
 4. BPM (Heart Rate) Monitoring System
 
-Using a Pulse Sensor connected to ESP8266 or Arduino, the BPM monitor checks real-time heartbeats by detecting changes in blood flow. The microcontroller processes the pulse waveform and calculates beats per minute.
+  Using a Pulse Sensor connected to ESP8266 or Arduino, the BPM monitor checks real-time heartbeats by detecting changes in blood flow. The microcontroller processes the pulse waveform and calculates beats per minute.
 
-The system can display the data on an LCD, log it onto a web dashboard, or trigger a buzzer if the heart rate enters dangerous levels. This demonstrates how IoT-based health devices like smartwatches and fitness bands work internally, making healthcare safer and more accessible.
+  The system can display the data on an LCD, log it onto a web dashboard, or trigger a buzzer if the heart rate enters dangerous levels. This demonstrates how IoT-based health devices like smartwatches and fitness bands work internally, making healthcare safer and more    accessible.
 
 5. Automated Delivery Robot
 
-The delivery robot is a small autonomous vehicle designed to transport items from one place to another. It uses:
+  The delivery robot is a small autonomous vehicle designed to transport items from one place to another. It uses:
 
-Ultrasonic sensors for obstacle detection
+  Ultrasonic sensors for obstacle detection
 
 IR sensors for line following
 
